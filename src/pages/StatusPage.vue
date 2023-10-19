@@ -434,7 +434,7 @@ export default {
             baseURL: "",
             clickedEditButton: false,
             maintenanceList: [],
-            autoRefreshInterval: 1,
+            autoRefreshInterval: 5,
             lastUpdateTime: dayjs(),
             updateCountdown: null,
             updateCountdownText: null,
